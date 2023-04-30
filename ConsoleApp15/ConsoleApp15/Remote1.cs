@@ -8,5 +8,6 @@ namespace ConsoleApp15
 {
     public class Remote1
     {
+        //kerem
     }
 }
